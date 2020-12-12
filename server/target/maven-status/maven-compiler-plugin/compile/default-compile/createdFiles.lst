@@ -1,0 +1,3 @@
+server\SimpleHttpServer.class
+server\logics\Logics.class
+server\ClientHandler.class
